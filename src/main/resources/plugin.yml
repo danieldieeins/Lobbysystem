@@ -1,0 +1,14 @@
+name: a-Lobby
+version: '4.0.0B1'
+main: live.nerotv.Main
+api-version: '1.20'
+
+softdepend:
+  - floodgate
+
+commands:
+  bedrock:
+    aliases: [bedrockmode,java,javamode]
+  build:
+  labymod:
+    aliases: [laby,mod,labymod3,labymod4,laby3,laby4,mod3,mod4]
